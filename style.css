@@ -1,0 +1,141 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e9f4b8
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.logo1{
+  height: 70px;
+  width: 100px;
+}
+
+header {
+  background-color: #121212;
+  color: #fff;
+  
+}
+
+header h1 {
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a  {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px 0;
+}
+
+section h2 {
+  text-align: center;
+
+}
+
+.course {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #878181;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+.box{
+  height: 200px;
+  width: 200px;
+  display: inline;
+  justify-content: space-evenly;
+
+}
+
+.box2 h3{
+  text-align: center;
+}
+  .cont {
+            display: flex;
+            border: 2px solid black;
+        }
+ 
+        .box {
+            flex: 1;
+            margin: 15px;
+            padding: 40px;
+            border: 2px solid #060606;
+        }
+        .box1{
+          flex: 1;
+          margin: 15px;
+          padding: 40px;
+          border: 2px solid #060606;
+      }
+      .box2 {
+        flex: 1;
+        margin: 15px;
+        padding: 40px;
+        border: 2px solid #0a0909;
+    }
+    .box3 {
+      flex: 1;
+      margin: 15px;
+      padding: 40px;
+      border: 2px solid #050404;
+  }
+  .box4 {
+    flex: 1;
+    margin: 15px;
+    padding: 40px;
+    border: 2px solid #121111;
+}
+.box4 {
+  flex: 1;
+  margin: 15px;
+  padding: 40px;
+  border: 2px solid #000101;
+}
+.box4 {
+  flex: 1;
+  margin: 15px;
+  padding: 40px;
+  border: 2px solid #060606;
+}
+
+.box5 {
+  flex: 1;
+  margin: 15px;
+  padding: 40px;
+  border: 2px solid #0b0b0b;
+}
+#about {
+  font-size: 1.3rem;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+
+
+
